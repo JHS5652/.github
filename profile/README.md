@@ -199,7 +199,8 @@
 
 ## ⚙️ Architecture
 ### System Architecture
-![시스템 아키텍처](https://user-images.githubusercontent.com/100184394/202158573-e092569a-988c-4ad6-90c5-9459ad7525b3.png)
+![시스템 아키텍처](https://user-images.githubusercontent.com/100184394/202433405-c7200a7f-b903-407e-bf40-138aa23c4cf3.png)
+
 ### Batch
 ![배치 구조](https://user-images.githubusercontent.com/100184394/202159277-0425a35c-7143-4251-8929-6908b401f1af.jpg)
 <br><br>
