@@ -53,7 +53,7 @@
 <img src="https://user-images.githubusercontent.com/70789958/202612079-5091e162-e428-4d8a-9b3d-fecad5435ec8.gif" width="350">
 </td>
 <td width="300" align="center">
-<img src="https://user-images.githubusercontent.com/70789958/202612867-c9787c51-c56d-4197-9932-a382c8d9bb43.gif" width="350">
+<img src="https://user-images.githubusercontent.com/70789958/202629918-8f70356b-5ef4-44d6-8b6f-64d8c3afc49e.gif" width="350">
 </td>
 </tr>
 <tr>
