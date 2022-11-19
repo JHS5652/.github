@@ -165,12 +165,13 @@
 
 ## 🛠️ Skills
 ### Front-End
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/reactQuery-FF4154?style=for-the-badge&logo=react Query&logoColor=white"> 
-<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> 
-<img src="https://img.shields.io/badge/Emotion-FE5196?style=for-the-badge&logo=Emotion&logoColor=white"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">  <img src="https://img.shields.io/badge/CSS Modules-c4c4c4?style=for-the-badge&logo=CSS Modules&logoColor=000000"> 
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"> 
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"> 
 <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prettier-00C7B7?style=for-the-badge&logo=Prettier&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-003545?style=for-the-badge&logo=ESLint&logoColor=4B32C3">
+
 
 ### Back-End
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/gradle-2D4999?style=for-the-badge&logo=gradle&logoColor=white">
