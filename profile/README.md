@@ -166,8 +166,9 @@
 ## 🛠️ Skills
 ### Front-End
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">  <img src="https://img.shields.io/badge/CSS Modules-c4c4c4?style=for-the-badge&logo=CSS Modules&logoColor=000000"> 
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"> 
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"> 
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/stomp-000000?style=for-the-badge&logo= &logoColor=white">
+<img src="https://img.shields.io/badge/Socket.js-010101?style=for-the-badge&logo=Socket.io&logoColor=white"> 
 <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge">
 <img src="https://img.shields.io/badge/Prettier-00C7B7?style=for-the-badge&logo=Prettier&logoColor=white">
 <img src="https://img.shields.io/badge/ESLint-003545?style=for-the-badge&logo=ESLint&logoColor=4B32C3">
