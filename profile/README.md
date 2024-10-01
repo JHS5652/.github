@@ -1,7 +1,7 @@
 # [Base Community](https://can-do-it.notion.site/BaseCommunity-0869f382e2274250934b1063df7d0219)
 ![Untitled](https://user-images.githubusercontent.com/100184394/202149799-c60d96f5-ced8-4c0f-aef8-b718382724dd.png)
 
-프로젝트 소개: 취준생을 위한 취업 정보 제공 및 프로젝트를 구하거나 모집할 수 있는 플랫폼입니다.
+프로젝트 소개: 취준생을 위한 취업 정보 제공 및 프로젝트를 구하거나 모집할 수 있는 플렛폼입니다.
 - [팀 프로젝트 관리 -> Notion](https://can-do-it.notion.site/BaseCommunity-0869f382e2274250934b1063df7d0219)
 <br><br>
 
